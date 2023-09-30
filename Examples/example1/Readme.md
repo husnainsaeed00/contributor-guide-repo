@@ -30,9 +30,9 @@ Follow these steps to set up and run the example project on your local machine.
    cd contibutor-guide-repo/examples/example-1/
 ```
 
-3. **Open the HTML File:**
+3. **Open the Javascript File:**
 
-    Open the index.html file in your web browser to see the project in action.
+    Open the Script.js file in your web browser to see the project in action.
 
 ### Example Code
 In this section, we'll provide an overview of the key JavaScript code files for this example.

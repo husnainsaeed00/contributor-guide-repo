@@ -22,7 +22,7 @@ Follow these steps to set up and run the example project on your local machine.
    First, clone the project repository to your local machine:
 
    ```bash
-   git clone https://github.com/[your-username]/ contributor-guide-repo.git
+   git clone https://github.com/[your-username]/contributor-guide-repo.git
 ```
 
 2. **Navigate to the "example-1" Directory:**

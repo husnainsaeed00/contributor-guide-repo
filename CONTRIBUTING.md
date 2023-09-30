@@ -10,7 +10,7 @@ Here are the general steps to contribute to our project:
 
 2. **Clone Your Fork:** Clone your forked repository to your local machine using the following command (replace `[your-username]` with your GitHub username):
 
-```git clone https://github.com/[your-username]/[repository-name].git```
+```git clone https://github.com/[your-username]/contributor-guide-repo.git```
 
 
 3. **Create a Branch:** Before making changes, create a new branch for your contribution. Use a descriptive name that reflects the purpose of your work. For example:
@@ -50,7 +50,7 @@ Here are the general steps to contribute to our project:
 
 Ready to get started? Explore our list of [open issues](https://github.com/[your-username]/[repository-name]/issues) or check out our [example contributions](examples/) for inspiration.
 
-Thank you for contributing to [Project Name]!
+Thank you for contributing to contributor-guide-repo!
 
 Happy coding!
 
