@@ -1,10 +1,10 @@
 # Contributor's Guide
 
-Welcome to the "Contributor's Guide" repository! Open source projects thrive on community contributions, and we're excited to have you join us on this journey. This guide is designed to provide you with all the information you need to get started as a contributor.
+Welcome to the "Contributor's Guide" repository! Open-source projects thrive on community contributions, and we're excited to have you join us on this journey. This guide is designed to provide you with all the information you need to get started as a contributor.
 
 ## About Us
 
-[Project Name] is an open source project dedicated to [briefly describe the project's purpose and goals]. We value the contributions of our community members and encourage you to be part of our mission to [state the project's mission].
+Contributor-guide-repo is an open-source project dedicated to guiding students to explore the open-source realm. We value the contributions of our community members and encourage you to be part of our mission to contribute to the community.
 
 ## Getting Started
 
@@ -32,6 +32,6 @@ If you're new to open source or our project, here's how you can start contributi
 
 We're excited to have you on board! Start by exploring our list of [open issues](https://github.com/your-username/contributor-guide-repo/issues) or by checking out our [example contributions](examples/) for inspiration.
 
-If you have any questions or need assistance, please don't hesitate to reach out to us. We're here to help and guide you throughout your open source journey.
+If you have any questions or need assistance, please don't hesitate to reach out to us. We're here to help and guide you throughout your open-source journey.
 
 Happy contributing!
